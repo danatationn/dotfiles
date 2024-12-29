@@ -1,0 +1,10 @@
+font-family = Inconsolata Nerd Font Mono
+
+theme = GruvboxDark
+
+background = 242424
+foreground = eeeeee
+
+adw-toolbar-style = flat
+gtk-wide-tabs = false
+
