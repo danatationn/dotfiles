@@ -1,9 +1,9 @@
 font-family = Inconsolata Nerd Font Mono
 
-theme = GruvboxDark
+theme = Adwaita Dark
 
-background = 242424
-foreground = eeeeee
+background = 222226
+foreground = ffffff
 
 adw-toolbar-style = flat
 gtk-wide-tabs = false
