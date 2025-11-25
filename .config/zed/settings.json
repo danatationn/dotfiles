@@ -1,0 +1,44 @@
+{
+	// theming
+	"buffer_font_family": "Inconsolata Nerd Font Mono",
+	"buffer_font_size": 16,
+	"ui_font_family": "Adwaita Sans",
+	"ui_font_size": 14.0,
+	"theme": {
+		"mode": "system",
+		"light": "JetBrains Light",
+		"dark": "JetBrains Dark"
+	},
+	"minimap": {
+		"show": "auto"
+	},
+
+	// visuals
+	"show_whitespaces": "all",
+	"tab_size": 4,
+	"git": {
+		"inline_blame": {
+			"enabled": false
+		}
+	},
+	"inlay_hints": {
+		"enabled": true
+	},
+
+	// behavior
+	"hard_tabs": true,
+	"autosave": {
+		"after_delay": {
+			"milliseconds": 100
+		}
+	},
+	"preferred_line_length": 120,
+	"format_on_save": "off",
+
+	// options
+	"disable_ai": true,
+	"telemetry": {
+		"diagnostics": false,
+		"metrics": false
+	}
+}
