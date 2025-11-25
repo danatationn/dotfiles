@@ -1,0 +1,122 @@
+{
+    "Name": "Default",
+    "Version": 1,
+    "Widgets": [
+        {
+            "SplitterVertical": {
+                "State": "AAAA/wAAAAEAAAADAAADdgAAABwAAAAWAP////8BAAAAAgA=",
+                "Widgets": [
+                    {
+                        "SplitterHorizontal": {
+                            "State": "AAAA/wAAAAEAAAACAAAFXQAAASYA/////wEAAAABAA==",
+                            "Widgets": [
+                                {
+                                    "SplitterHorizontal": {
+                                        "State": "AAAA/wAAAAEAAAACAAAA+QAABGEA/////wEAAAABAA==",
+                                        "Widgets": [
+                                            {
+                                                "SplitterVertical": {
+                                                    "State": "AAAA/wAAAAEAAAACAAAAIQAAA1UA/////wEAAAACAA==",
+                                                    "Widgets": [
+                                                        {
+                                                            "SearchBar": {
+                                                                "AutoSearch": false,
+                                                                "SearchMode": 0,
+                                                                "Widgets": "d75ae6428e2e412690c0d1bfbcdce565"
+                                                            }
+                                                        },
+                                                        {
+                                                            "LibraryTree": {
+                                                                "Grouping": 2,
+                                                                "ID": "f6bc1bf215b2460fab23b4872e8a083c",
+                                                                "State": "AAAABHja+////38ACfoD/Q=="
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "PlaylistTabs": {
+                                                    "Widgets": [
+                                                        {
+                                                            "Playlist": {
+                                                                "Columns": "8:132|3|0:2|1|7:2",
+                                                                "HeaderState": "AAAAZXjaY2BgYGVgYHBmYGBcBaQjoXQBA0QcBBiBmAmImYGYBSRuv25H4OtWuR32N8BUkP2Wqofu60Sq4fydM0FgFkgjw38gAAA4QRsW",
+                                                                "ID": "7ef13a647c204aa6981278f416d31852",
+                                                                "Preset": 1,
+                                                                "SingleMode": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "SplitterVertical": {
+                                        "State": "AAAA/wAAAAEAAAADAAABKAAAACkAAAIjAP////8BAAAAAgA=",
+                                        "Widgets": [
+                                            {
+                                                "ArtworkPanel": {
+                                                    "CoverAlignment": 132,
+                                                    "CoverType": 0,
+                                                    "KeepAspectRatio": true
+                                                }
+                                            },
+                                            {
+                                                "VUMeter": {
+                                                    "Orientation": 1,
+                                                    "ShowLegend": false,
+                                                    "ShowPeaks": false
+                                                }
+                                            },
+                                            {
+                                                "Lyrics": {
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "SplitterHorizontal": {
+                            "State": "AAAA/wAAAAEAAAAFAAAAiAAABVMAAABEAAAAIgAAAG0A/////wEAAAABAA==",
+                            "Widgets": [
+                                {
+                                    "PlayerControls": {
+                                    }
+                                },
+                                {
+                                    "WaveBar": {
+                                        "ElapsedTotal": false,
+                                        "ShowLabels": true
+                                    }
+                                },
+                                {
+                                    "PlaylistControls": {
+                                    }
+                                },
+                                {
+                                    "ScrobbleToggle": {
+                                    }
+                                },
+                                {
+                                    "VolumeControls": {
+                                        "Mode": 3
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "StatusBar": {
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
